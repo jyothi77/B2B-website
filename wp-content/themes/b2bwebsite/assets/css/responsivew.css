@@ -1,0 +1,268 @@
+/**********Mobile View CSS*******************/
+
+@media (max-width: 768px) {
+  .offset-md-2 {
+    margin-left: 2.666667%;
+  }
+  #hero h4 {
+    margin: 0;
+    font-size: 35px;
+    font-weight: 700;
+    color: #000000;
+  }
+  .goal-text {
+    margin: 0px 0px 0px 0px;
+  }
+  .goal-image {
+    margin: 18px 0px 0px 0px;
+  }
+
+  .sr-number {
+    position: absolute;
+    font-family: "HK Grotesk";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 65px;
+    line-height: 45.2%;
+    letter-spacing: -0.045em;
+    color: #f9bc6e;
+    opacity: 0.15;
+    bottom: 100%;
+    right: 80%;
+  }
+  .sr-number2 {
+    position: absolute;
+    font-family: "HK Grotesk";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 65px;
+    line-height: 45.2%;
+    letter-spacing: -0.045em;
+    color: #f9bc6e;
+    opacity: 0.15;
+    bottom: 100%;
+    right: 0px;
+  }
+  .form-control {
+    width: 300px;
+    /* height: 50px; */
+    left: 10px;
+    top: 34px;
+    /* right: 69px; */
+    /* background: #FFFFFF; */
+    /* border-radius: 1000px; */
+  }
+  .form-control2 {
+    width: 300px;
+    /* height: 50px; */
+    left: 10px;
+    top: 106px;
+    /* right: 69px; */
+    /* background: #FFFFFF; */
+    /* border-radius: 1000px; */
+  }
+  .position-relative2 {
+    position: relative;
+    top: 5px;
+    left: 0px;
+  }
+  .testimoiall-margin {
+    margin: 0px 0px 0px 0px;
+  }
+
+  .carousel-control-prev-icon {
+    background-image: url(../images/arrow-left.svg);
+    position: relative;
+    top: 186px;
+    left: 50px;
+    /* width: 100px; */
+    height: 100px;
+    width: 100px;
+    height: 100px;
+  }
+  .carousel-control-next-icon {
+    background-image: url(../images/arrow-right.svg);
+    position: relative;
+    top: 186px;
+    right: 60px;
+    width: 100px;
+    height: 100px;
+  }
+  .img2 {
+    /* width: 120px; */
+    margin: 11px 6px 33px 11px;
+  }
+  .p-testiomiall {
+    position: relative;
+    top: 3px;
+    width: 211px;
+    font-size: 13px;
+    padding: 10px 10px 10px 20px;
+  }
+  .gola1 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    /* line-height: 33px; */
+    width: 470px;
+    letter-spacing: 0.2px;
+    color: #f9bc6e;
+    /* padding: 80px 70px 32px 0px; */
+  }
+  .testimonial-cards {
+    background: pink;
+    box-shadow: 0px 69px 114px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+    /* padding: 37px 17px 95px 19px; */
+  }
+
+  .carouseles {
+    width: 100%;
+    margin: auto;
+  }
+  .testimonial {
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+  }
+  .treatment {
+    height: 660px;
+    left: 0px;
+    top: 0px;
+    background: #f9bc6e;
+    margin-top: 100px;
+  }
+  .dapixel-sec {
+    margin: 0px 0px 0px 0px;
+  }
+  .page-header4:after {
+    content: "";
+    position: relative;
+    display: block;
+    background: #009bd9;
+    border-right: 3px solid #fff;
+    left: calc(48% - 21px);
+    width: 89px;
+    height: 3px;
+    background: #f9bc6e;
+    border-radius: 1000px;
+    background: #f9bc6e;
+    top: 10px;
+  }
+  /* .free-marketing-sec .market-sec { */
+  /* margin: 0px 0px 0px 0px; */
+  /* } */
+
+  .digital-marketing {
+    padding: 50px 0 50px 0;
+    background: #f9bc6e;
+  }
+  .digital-mar {
+    padding: 60px 10px 10px 60px;
+  }
+  .digital-sec {
+    margin: 0px 10px 10px 50px;
+  }
+
+  .contact-margin {
+    margin: 0px 0px 0px 0px;
+  }
+  .btn-submit {
+    padding: 27px 170px 10px 60px;
+    background: #f9bc6e;
+    border-radius: 15px;
+  }
+  .digital-h {
+    /* height: 51px; */
+    font-family: "Product Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 106.3%;
+    text-align: center;
+    color: #ffffff;
+  }
+  .digital-p {
+    font-family: "HK Grotesk";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+
+    text-align: center;
+    color: #ffffff;
+  }
+  .Step-heading {
+    font-family: "Product Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #f9bc6e;
+    padding: 28px 0px 0px 30px;
+  }
+  .free-p {
+    padding: 0px 0px 0px 0px;
+    color: #ffffff;
+  }
+  .audits-image {
+    position: relative;
+    top: 100px;
+  }
+}
+
+/***********Tab View CSS *******************/
+@media (min-width: 768px) and (max-width: 1024px) {
+  .img2 {
+    width: 120px;
+    margin: 30px 18px 30px 161px;
+  }
+  .p-testiomiall {
+    position: relative;
+    top: 3px;
+    width: 211px;
+    font-size: 13px;
+    padding: 44px 12px 14px 22px;
+  }
+  .carousel-control-prev-icon {
+    background-image: url(../images/arrow-left.svg);
+    position: absolute;
+    top: 260px;
+    left: 196px;
+    width: 100px;
+    height: 100px;
+  }
+  .carousel-control-next-icon {
+    background-image: url(../images/arrow-right.svg);
+    position: absolute;
+    top: 260px;
+    right: 170px;
+    width: 100px;
+    height: 100px;
+  }
+  .position-relative3 {
+    position: relative;
+    top: 100px;
+    left: 10px;
+  }
+  .contact-margin {
+    margin: 0px 0px 0px 0px;
+  }
+  .btn-submit {
+    padding: 27px 190px 10px 60px;
+    background: #f9bc6e;
+    border-radius: 15px;
+  }
+  .digital-h {
+    height: 51px;
+    font-family: "Product Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 128.3%;
+    text-align: center;
+    color: #ffffff;
+  }
+  .industries-card {
+    height: 300px;
+    /* width: 330px; */
+  }
+}

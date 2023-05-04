@@ -1,0 +1,200 @@
+/**********Mobile View CSS*******************/
+
+    @media (max-width: 768px){
+.offset-md-2 {
+    margin-left: 2.666667%;
+}
+#hero h4 {
+    margin: 0;
+    font-size: 35px;
+    font-weight: 700;
+    color: #000000;
+}
+.goal-text{
+  
+        margin: 0px 0px 0px 0px;
+
+  }
+.goal-image{
+    margin: 18px 0px 0px 0px;
+}
+
+
+.sr-number {
+    position: absolute;
+    font-family: 'HK Grotesk';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 65px;
+    line-height: 45.2%;
+    letter-spacing: -0.045em;
+    color: #F9BC6E;
+    opacity: 0.15;
+    bottom: 100%;
+    right: 80%;
+}
+.sr-number2 {
+    position: absolute;
+    font-family: 'HK Grotesk';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 65px;
+    line-height: 45.2%;
+    letter-spacing: -0.045em;
+    color: #F9BC6E;
+    opacity: 0.15;
+    bottom: 100%;
+    right: 0px;
+}
+.form-control {
+    position: absolute;
+    width: 300px;
+    /* height: 50px; */
+    left: 10px;
+    top: 34px;
+    /* right: 69px; */
+    /* background: #FFFFFF; */
+    /* border-radius: 1000px; */
+}
+.form-control2 {
+   
+        position: absolute;
+        width: 300px;
+        /* height: 50px; */
+        left: 10px;
+        top: 106px;
+        /* right: 69px; */
+        /* background: #FFFFFF; */
+        /* border-radius: 1000px; */
+   
+}
+.position-relative2 {
+    position: relative;
+    top: 5px;
+    left: 0px;
+}
+.testimoiall-margin {
+    margin: 0px 0px 0px 0px;
+    
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../images/arrow-left.svg);
+    position: relative;
+    top: 186px;
+    left: 50px;
+    /* width: 100px; */
+    height: 100px;
+    width: 100px;
+    height: 100px;
+}
+.carousel-control-next-icon {
+    background-image: url(../images/arrow-right.svg);
+    position: relative;
+    top: 186px;
+    right: 60px;
+    width: 100px;
+    height: 100px;
+}
+.img2 {
+    /* width: 120px; */
+    margin: 11px 6px 33px 11px;
+}
+.p-testiomiall {
+    position: relative;
+    top: 3px;
+    width: 211px;
+    font-size: 13px;
+    padding: 10px 10px 10px 20px;
+}
+.gola1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    /* line-height: 33px; */
+    width: 470px;
+    letter-spacing: 0.2px;
+    color: #F9BC6E;
+    /* padding: 80px 70px 32px 0px; */
+}
+.testimonial-cards {
+    background: pink;
+    box-shadow: 0px 69px 114px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+    /* padding: 37px 17px 95px 19px; */
+}
+
+.carouseles {
+    width: 100%;
+    margin: auto;
+}
+.testimonial {
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+.treatment {
+    height: 660px;
+    left: 0px;
+    top: 0px;
+    background: #F9BC6E;
+    margin-top: 100px;
+    
+}
+.dapixel-sec {
+    margin: 0px 0px 0px 0px;
+}
+.page-header4:after {
+    content: '';
+    position: relative;
+    display: block;
+    background: #009bd9;
+    border-right: 3px solid #fff;
+    left: calc(48% - 21px);
+    width: 89px;
+    height: 3px;
+    background: #F9BC6E;
+    border-radius: 1000px;
+    background: #F9BC6E;
+        top: 10px;
+}
+
+}
+
+
+/***********Tab View CSS *******************/
+@media (min-width: 768px) and (max-width: 1024px) {
+    .img2 {
+        width: 120px;
+        margin: 30px 18px 30px 161px;
+    }
+    .p-testiomiall {
+        position: relative;
+        top: 3px;
+        width: 211px;
+        font-size: 13px;
+        padding: 44px 12px 14px 22px;
+    }
+    .carousel-control-prev-icon {
+        background-image: url(../images/arrow-left.svg);
+        position: absolute;
+        top: 260px;
+        left: 196px;
+        width: 100px;
+        height: 100px;
+    }
+    .carousel-control-next-icon {
+        background-image: url(../images/arrow-right.svg);
+        position: absolute;
+        top: 260px;
+        right: 170px;
+        width: 100px;
+        height: 100px;
+    }
+    .position-relative3 {
+        position: relative;
+        top: 100px;
+        left: 10px;
+    }
+
+}
+
