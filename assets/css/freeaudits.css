@@ -1,0 +1,114 @@
+.free-image {
+  position: absolute;
+  top: 550px;
+}
+.position-relative-audits {
+  top: 150px;
+}
+.audits-cards1 {
+  background: #ffff;
+  box-shadow: 0px 69px 114px rgba(0, 0, 0, 0.08);
+  border-radius: 30px;
+  padding: 60px 47px 60px 53px;
+  margin: 180px 10px 10px 10px;
+}
+.audits-cards2 {
+  background: #ffff;
+  box-shadow: 0px 69px 114px rgba(0, 0, 0, 0.08);
+  border-radius: 30px;
+  padding: 60px 47px 60px 53px;
+}
+.audits-p {
+  font-family: "HK Grotesk";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 162.7%;
+  margin: 30px 0px 0px 0px;
+
+  text-align: justify;
+
+  color: #000000;
+}
+.audits-image {
+  position: relative;
+  bottom: 60px;
+}
+.Step-heading {
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  /* identical to box height */
+
+  /* Primary */
+
+  color: #f9bc6e;
+}
+.free-p {
+  padding: 27px 136px 27px 136px;
+  color: #ffffff;
+}
+.digital-marketing {
+  padding: 120px 0 120px 0;
+  background: #f9bc6e;
+}
+
+/* =====contact==== */
+.contact-style {
+  /* width: 452.14px; */
+  height: 65px;
+  left: 746.39px;
+  top: 186.28px;
+
+  background: #ffffff;
+  border: 1px solid #c8c8c8;
+  border-radius: 15px;
+}
+.contact-form {
+  background: #ffffff;
+  box-shadow: 0px 69px 114px rgba(175, 108, 108, 0.08);
+  border-radius: 20px;
+}
+.contact-style-button {
+  width: 445px;
+  height: 60.45px;
+  background: #f9bc6e;
+  border-radius: 15px;
+}
+.social-icon2 {
+  margin: 2px 20px 0px 0px;
+  line-height: 76px;
+}
+.book-button {
+  border: 2px solid #f9bc6e;
+  border-radius: 15px;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 69px 114px rgba(0, 0, 0, 0.08);
+  border-radius: 20px;
+  color: #f9bc6e;
+  font-size: 20px;
+  padding: 20px 20px 20px 20px;
+}
+.btn-submit {
+  padding: 27px 265px 10px 60px;
+  background: #f9bc6e;
+  border-radius: 15px;
+}
+
+.contact-font {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 129.7%;
+  color: #000000;
+}
+.contact-margin {
+  margin: 70px 19px 40px 60px;
+}
+.marketing-contact {
+  background: #ffffff;
+  box-shadow: 0px 69px 114px rgba(0, 0, 0, 0.08);
+  border-radius: 20px;
+}
